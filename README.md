@@ -3,6 +3,8 @@
 
 This fork fixes an issue with CHAT_MESSAGE constructor for 1.15- versions and also made some small modifications such as removing JavaPlugin parameter from the update method, following *static final* order, and tiny optimizations.
 
+Uses My Own Eclipse Java Code Formatting Style: [SameLinePriority.xml](https://github.com/TheGaming999/InventoryUpdate/blob/main/SameLinePriority.xml)
+
 With this resource, you can update the title of almost every inventory (some limitations, read below) without the need of reopening the inventory or resetting the cursor.
 
 Some limitations / notes:
